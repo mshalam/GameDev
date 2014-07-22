@@ -1,6 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/lastdominos.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/laststand.cs">
     <Files>
       <File FileName="../../porting in class/Assets/scripts/VectorFun.cs" Line="25" Column="1" />
       <File FileName="Assets/Scripts/CannonBall.cs" Line="1" Column="1" />
@@ -32,8 +32,9 @@
       <File FileName="Assets/cannon.cs" Line="1" Column="1" />
       <File FileName="Assets/cannontip.cs" Line="1" Column="1" />
       <File FileName="Assets/basketball.cs" Line="1" Column="1" />
-      <File FileName="Assets/hoop.cs" Line="9" Column="49" />
+      <File FileName="Assets/hoop.cs" Line="1" Column="1" />
       <File FileName="Assets/lastdominos.cs" Line="9" Column="49" />
+      <File FileName="Assets/laststand.cs" Line="9" Column="50" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
