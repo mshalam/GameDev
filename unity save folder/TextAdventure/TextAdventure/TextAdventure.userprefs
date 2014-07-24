@@ -1,8 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/TextAdventure.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Character Controller lab/Assets/Scripts/TransformControl.cs">
     <Files>
-      <File FileName="Assets/scripts/TextAdventure.cs" Line="120" Column="29" />
+      <File FileName="../../Character Controller lab/Assets/Scripts/TransformControl.cs" Line="38" Column="4" />
+      <File FileName="Assets/scripts/TextAdventure.cs" Line="27" Column="35" />
+      <File FileName="../../porting in class/Assets/scripts/VectorFun.cs" Line="21" Column="76" />
+      <File FileName="../../Rube Goldber HW/rube Goldberg/Assets/Scripts/cameraCode.cs" Line="74" Column="60" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
