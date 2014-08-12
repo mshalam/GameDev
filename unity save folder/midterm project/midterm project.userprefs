@@ -1,14 +1,16 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/invisibleWall.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/KeyScript.cs">
     <Files>
-      <File FileName="Assets/scripts/player.cs" Line="8" Column="4" />
+      <File FileName="Assets/scripts/KeyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/player.cs" Line="1" Column="1" />
       <File FileName="../Character Controller lab/Assets/Scripts/RigidBodyControl.cs" Line="1" Column="1" />
       <File FileName="../Character Controller lab/Assets/Scripts/CharacterControl.cs" Line="1" Column="1" />
       <File FileName="../nyu studio summer2014/week03/Assets/scripts/CharacterControl.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/KeyScript.cs" Line="22" Column="70" />
       <File FileName="Assets/scripts/treasure.cs" Line="39" Column="2" />
       <File FileName="Assets/scripts/invisibleWall.cs" Line="15" Column="5" />
+      <File FileName="../TextAdventure/TextAdventure/Assets/scripts/TextAdventure.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

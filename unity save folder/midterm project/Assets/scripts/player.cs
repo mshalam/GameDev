@@ -30,5 +30,6 @@ public class player : MonoBehaviour {
 		*/
 		// gravity hack
 		GetComponent<CharacterController>().Move ( Physics.gravity * 0.1f );
+	
 	}
 }

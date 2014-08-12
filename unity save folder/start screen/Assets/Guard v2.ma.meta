@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 15ee525c00a4c44f8a0c6219c71b1ac4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Face
+    100002: Flashlight
+    100004: //RootNode
+    100006: Hat
+    100008: Hat_Rim
+    100010: Left_Hand
+    100012: Light_Beam
+    100014: Light_Switch
+    100016: Mustash
+    100018: Pants
+    100020: Right_Hand
+    100022: Shirt
+    100024: Shoes
+    100026: Tie
+    400000: Face
+    400002: Flashlight
+    400004: //RootNode
+    400006: Hat
+    400008: Hat_Rim
+    400010: Left_Hand
+    400012: Light_Beam
+    400014: Light_Switch
+    400016: Mustash
+    400018: Pants
+    400020: Right_Hand
+    400022: Shirt
+    400024: Shoes
+    400026: Tie
+    2300000: Face
+    2300002: Flashlight
+    2300004: Hat
+    2300006: Hat_Rim
+    2300008: Left_Hand
+    2300010: Light_Beam
+    2300012: Light_Switch
+    2300014: Mustash
+    2300016: Pants
+    2300018: Right_Hand
+    2300020: Shirt
+    2300022: Shoes
+    2300024: Tie
+    3300000: Face
+    3300002: Flashlight
+    3300004: Hat
+    3300006: Hat_Rim
+    3300008: Left_Hand
+    3300010: Light_Beam
+    3300012: Light_Switch
+    3300014: Mustash
+    3300016: Pants
+    3300018: Right_Hand
+    3300020: Shirt
+    3300022: Shoes
+    3300024: Tie
+    4300000: Shirt
+    4300002: Tie
+    4300004: Pants
+    4300006: Shoes
+    4300008: Face
+    4300010: Hat
+    4300012: Hat_Rim
+    4300014: Mustash
+    4300016: Right_Hand
+    4300018: Left_Hand
+    4300020: Flashlight
+    4300022: Light_Beam
+    4300024: Light_Switch
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
