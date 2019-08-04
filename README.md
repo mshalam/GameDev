@@ -16,6 +16,6 @@ In Game Development Studio, students will work in teams to create a single digit
 - Play: https://dl.dropboxusercontent.com/u/233221248/midterm%20build.html
 
 4) Video Game Mockup
-<img src='https://github.com/mshalam/GameDev/blob/master/dtFinalProjectAttempt3.gif' width='75%' hegiht='75%'>
+<img src='https://github.com/mshalam/GameDev/blob/master/dtFinalProjectAttempt3.gif' width='25%' hegiht='25%'>
 
 Created 2014
