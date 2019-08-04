@@ -11,7 +11,7 @@ In Game Development Studio, students will work in teams to create a single digit
 - code: https://github.com/michael21115/MuseumThief.git
 - play: http://www.kongregate.com/games/Jhinn/museum-thief
 
-3)Midterm Project: 3D world
+3) Midterm Project: 3D world
 - code: https://github.com/mshalam/GameDev/tree/master/unity%20save%20folder/midterm%20project
 - Play: https://dl.dropboxusercontent.com/u/233221248/midterm%20build.html
 
